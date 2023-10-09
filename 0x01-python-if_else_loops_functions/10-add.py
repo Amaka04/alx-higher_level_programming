@@ -6,7 +6,9 @@ def add(a, b):
     a (int): The first number
     b (int): The second number
     '''
-    return a + b#!/usr/bin/python3
+    return a + b
+
+#!/usr/bin/python3
 def add(a, b):
     '''
     Computes the sum of two numbers
@@ -15,4 +17,3 @@ def add(a, b):
     b (int): The second number
     '''
     return a + b
-
